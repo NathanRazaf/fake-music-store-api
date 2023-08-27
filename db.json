@@ -1,0 +1,125 @@
+{
+  "instruments" : [
+    {
+      "id": 1,
+        "name": "Squier by Fender Mini Stratocaster - Indian Laurel Fingerboard - Black",
+        "category": "electric-guitars",
+        "brand": "Fender",
+        "price": 259.99,
+        "image": "https://m.media-amazon.com/images/I/51XwbPA5mLL._AC_UL480_FMwebp_QL65_.jpg",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 902
+    },
+    {
+      "id": 2,
+        "name": "Squier by Fender Affinity Series Stratocaster - Indian Laurel Fingerboard - Olympic White",
+        "category": "electric-guitars",
+        "brand": "Fender",
+        "price": 339.99,
+        "image": "https://m.media-amazon.com/images/I/41q0so+ZTPL._AC_UL480_FMwebp_QL65_.jpg",
+        "inStock": true,
+        "rating": 4.2,
+        "numReviews": 89
+    },
+    {
+      "id": 3,
+        "name": "Squier by Fender Classic Vibe 70's Stratocaster - HSS - Laurel - Walnut",
+        "category": "electric-guitars",
+        "brand": "Fender",
+        "price": 589.99,
+        "image": "https://m.media-amazon.com/images/I/51jzoKBQyXL._AC_UL480_FMwebp_QL65_.jpg",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 1099
+    },
+    {
+      "id": 4,
+        "name": "Squier by Fender Affinity Series Telecaster Deluxe - Maple fingerboard - Black",
+        "category": "electric-guitars",
+        "brand": "Fender",
+        "price": 389.99,
+        "image": "https://m.media-amazon.com/images/I/41fGgZhH9fL._AC_UL480_FMwebp_QL65_.jpg",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 113
+    },
+    {
+      "id": 5,
+        "name": "SG Special - Vintage Cherry",
+        "category": "electric-guitars",
+        "brand": "Gibson",
+        "price": 1599.00,
+        "image": "https://images.ctfassets.net/m8onsx4mm13s/7jFSt2d5iUS8v4NXnmuDFu/a7a59961be0f57a2caeba278c9415f7b/__static.gibson.com_product-images_USA_USAPAH661_Vintage_Cherry_front-500_500.png?fit=fill&w=250&h=500",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 113
+    },
+    {
+      "id": 6,
+        "name": "Les Paul Standard '50s - Heritage Cherry Sunburst",
+        "category": "electric-guitars",
+        "brand": "Gibson",
+        "price": 2999.00,
+        "image": "https://images.ctfassets.net/m8onsx4mm13s/3xTssS9n9v8kIMVDG6LMZx/3b5e6eaf66a6cb1e71f6c8d0c3338156/__static.gibson.com_product-images_USA_USAUBC849_Heritage_Cherry_Sunburst_front-500x500.png?fit=fill&w=250&h=500",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 146
+    },
+    {
+      "id": 7,
+        "name": "Les Paul Special - TV Yellow",
+        "category": "electric-guitars",
+        "brand": "Gibson",
+        "price": 339.99,
+        "image": "https://images.ctfassets.net/m8onsx4mm13s/7yS8KMNGVfzg1Kt0L3KZGD/4a42b2bf5773fac49c74a8398d6de061/LPSP00TVNH1_front_copy.png?fit=fill&w=250&h=500",
+        "inStock": true,
+        "rating": 4.2,
+        "numReviews": 1155
+    },
+    {
+      "id": 8,
+        "name": "Gibson '60s J-45 Original Acoustic Guitar - Black",
+        "category": "acoustic-guitars",
+        "brand": "Gibson",
+        "price": 3980.96,
+        "image": "https://media.guitarcenter.com/is/image/MMGS7/60s-J-45-Original-Acoustic-Guitar-Ebony/L73521000001000-00-264x264.jpg",
+        "inStock": true,
+        "rating": 4.0,
+        "numReviews": 1132
+    },
+    {
+      "id": 9,
+        "name": "Gibson Generation Collection G-45 Acoustic Guitar - Natural",
+        "category": "acoustic-guitars",
+        "brand": "Gibson",
+        "price": 1705.31,
+        "image": "https://media.guitarcenter.com/is/image/MMGS7/Generation-Collection-G-45-Acoustic-Guitar-Natural/L86798000001000-00-264x264.jpg",
+        "inStock": true,
+        "rating": 4.1,
+        "numReviews": 1131
+    },
+    {
+      "id": 10,
+        "name": "FA-125CE Dreadnought Acoustic/Electric - Black",
+        "category": "acoustic-guitars",
+        "brand": "Fender",
+        "price": 319.99,
+        "image": "https://cdn.long-mcquade.com/files/185928/md_bf847955fdc4b46f98f3801ce25c43b7.webp",
+        "inStock": true,
+        "rating": 4.6,
+        "numReviews": 132
+    },
+    {
+      "id": 11,
+        "name": "Sterling By Music Man Jared Dines Artist Series StingRay Electric Guitar - Black",
+        "category": "electric-guitars",
+        "brand": "Music Man",
+        "price": 749.99,
+        "image": "https://media.sweetwater.com/api/i/q-70__h-300__w-300__f-png__b-original/images/items/1800/DinesBk-xlarge.jpg",
+        "inStock": true,
+        "rating": 4.1,
+        "numReviews": 1131
+    }
+  ]
+}
