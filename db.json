@@ -186,6 +186,84 @@
         "inStock": true,
         "rating": 4.5,
         "numReviews": 1132
+    },
+    {
+      "id": 18,
+      "name": "DGX670 88-Key Digital Piano - Black",
+        "category": "pianos",
+        "brand": "Yamaha",
+        "price": 1199.99,
+      "image": "https://cdn.long-mcquade.com/files/220630/md_bd46d5186c20ef5b0f79b43e61609049.webp",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 1132
+    },
+    {
+      "id": 19,
+      "name": "P45 88-Note Digital Piano - Black",
+        "category": "pianos",
+        "brand": "Yamaha",
+        "price": 669.99,
+      "image": "https://cdn.long-mcquade.com/files/55094/md_a29b4cd2d48150283321f6ef38b8066f.webp",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 1132
+    },
+    {
+      "id": 20,
+      "name": "Piaggero NP32 76-Key Portable Keyboard - Black",
+        "category": "keyboards",
+        "brand": "Yamaha",
+        "price": 379.99,
+      "image": "https://cdn.long-mcquade.com/files/71551/md_74e485a52a40ee1f45b0a93d1bbc8505.webp",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 1132
+    },
+    {
+      "id": 21,
+      "name": "YAMAHA VIOLIN 4/4 V7SC44 Violins 4/4 violins",
+        "category": "violins",
+        "brand": "Yamaha",
+        "price": 696.37,
+      "image": "https://m.media-amazon.com/images/I/71cHhWfb6ES._AC_SX679_.jpg",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 1132
+    },
+    {
+      "id": 22,
+      "name": "Mendini By Cecilio Violin - MV500+92D - Size 4/4 (Full Size), Black Solid Wood - Flamed, 1-Piece Violins w/Case, Tuner, Shoulder Rest, Bow, Rosin, Bridge & Strings",
+        "category": "violins",
+        "brand": "Cecilio",
+        "price": 899.99,
+      "image": "https://m.media-amazon.com/images/I/81HoPbESy1S._AC_SX679_.jpg",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 111
+    },
+    {
+
+      "id": 23,
+      "name": "Mendini by Cecilio B Flat Beginner Student Clarinet with 2 Barrels, Case, Stand, Book, 10 Reeds, Mouthpiece and Warranty (Ebonite)",
+        "category": "others",
+        "brand": "Cecilio",
+        "price": 170.77,
+      "image": "https://m.media-amazon.com/images/I/81MZsEtkIqL._AC_SX679_.jpg",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 1111
+    },
+    {
+      "id": 24,
+      "name": "Mendini By Cecilio Bb Trumpet - Trumpets for Beginner or Advanced Student w/Case, Cloth, Oil, Gloves",
+        "category": "others",
+        "brand": "Cecilio",
+        "price": 201.32,
+      "image": "https://m.media-amazon.com/images/I/81pimXBqtWL._AC_SY879_.jpg",
+        "inStock": true,
+        "rating": 4.2,
+        "numReviews": 1411
     }
   ]
 }
