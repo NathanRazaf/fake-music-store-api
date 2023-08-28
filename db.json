@@ -112,14 +112,80 @@
     },
     {
       "id": 11,
-        "name": "Sterling By Music Man Jared Dines Artist Series StingRay Electric Guitar - Black",
-        "category": "electric-guitars",
-        "brand": "Music Man",
-        "price": 749.99,
-        "image": "https://media.sweetwater.com/api/i/q-70__h-300__w-300__f-png__b-original/images/items/1800/DinesBk-xlarge.jpg",
+      "name": "Sterling By Music Man Jared Dines Artist Series StingRay Electric Guitar - Black",
+      "category": "electric-guitars",
+      "brand": "Music Man",
+      "price": 749.99,
+      "image": "https://media.sweetwater.com/api/i/q-70__h-300__w-300__f-png__b-original/images/items/1800/DinesBk-xlarge.jpg",
+      "inStock": true,
+      "rating": 4.1,
+      "numReviews": 1131
+    },
+    {
+      "id": 12,
+      "name": "Yamaha FG800 Acoustic Guitar - Matte Natural",
+      "category": "acoustic-guitars",
+      "brand": "Yamaha",
+      "price": 299.99,
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/104/10449/10449542.jpg",
+      "inStock": true,
+      "rating": 4.5,
+      "numReviews": 1132
+    },
+    {
+      "id": 13,
+      "name": "Yamaha Acoustic Guitar (FG820) - Sunset Blue",
+      "category": "acoustic-guitars",
+      "brand": "Yamaha",
+      "price": 399.99,
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/152/15237/15237328.jpg",
+      "inStock": true,
+      "rating": 4.5,
+      "numReviews": 1132
+    },
+    {
+      "id": 14,
+      "name": "Takamine Acoustic Guitar (GD11M-NS) - Mahogany",
+      "category": "acoustic-guitars",
+      "brand": "Yamaha",
+      "price": 299.99,
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/166/16669/16669346.jpg",
+      "inStock": true,
+      "rating": 4.5,
+      "numReviews": 1132
+    },
+    {
+      "id": 15,
+      "name" : "YAMAHA DTX10KMBF Mesh Pad Electronic Drum Kit With Hex Rack, Black Forest",
+      "category": "drums",
+        "brand": "Yamaha",
+        "price": 4699.99,
+        "image": "https://www.tomleemusic.ca/media/catalog/product/cache/cbd85ed31415d83253952c5dbf748d19/d/t/dtx10k-m_bf_f_0001_f7804e142da39bc0d9ebf39ce878987c.jpg",
         "inStock": true,
-        "rating": 4.1,
-        "numReviews": 1131
+        "rating": 4.5,
+        "numReviews": 1132
+    },
+    {
+      "id": 16,
+        "name" : "YAMAHA DTX10KMBF Mesh Pad Electronic Drum Kit With Hex Rack, Black Forest",
+        "category": "drums",
+        "brand": "Yamaha",
+        "price": 4699.99,
+      "image": "https://www.tomleemusic.ca/media/catalog/product/cache/cbd85ed31415d83253952c5dbf748d19/d/t/dtx10k-m_rw_f_0001_00ffdb8348e000ec741e0cc7ff8d847c.jpg",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 1132
+    },
+    {
+      "id": 17,
+        "name" : "Fender Starcaster Drum Set Black",
+        "category": "drums",
+        "brand": "Fender",
+        "price": 390.73,
+      "image": "https://images.reverb.com/image/upload/s--OCd5Lcqm--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_620,q_90,w_620/v1483750443/ilctegjpbcasiqllgdf1.jpg",
+        "inStock": true,
+        "rating": 4.5,
+        "numReviews": 1132
     }
   ]
 }
