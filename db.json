@@ -268,17 +268,6 @@
         "inStock": true,
         "rating": 4.2,
         "numReviews": 1411
-    },
-    {
-      "id": 25,
-      "name": "Mendini by Cecilio Tenor Saxophone, L+92D B Flat, Case, Tuner, Mouthpiece, Gold",
-      "category": "wind-instruments",
-            "brand": "Cecilio",
-            "price": 430.09,
-      "image": "https://m.media-amazon.com/images/I/41cPjpHdgyL._AC_.jpg",
-        "inStock": true,
-        "rating": 4.5,
-        "numReviews": 1111
     }
   ]
 }
