@@ -275,17 +275,6 @@
         "inStock": true,
         "rating": 4.5,
         "numReviews": 1111
-    },
-    {
-      "id": 26,
-      "name": "YAMAHA YAS-280 Saxophones Student Alto saxophones, C key, gold",
-        "category": "wind-instruments",
-                "brand": "Yamaha",
-                "price": 1157.00,
-      "image": "https://m.media-amazon.com/images/I/616+bItJydL._AC_SY879_.jpg",
-        "inStock": true,
-        "rating": 4.5,
-        "numReviews": 1111
     }
   ]
 }
